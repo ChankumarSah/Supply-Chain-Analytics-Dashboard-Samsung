@@ -1,5 +1,10 @@
 # 📦 Samsung Supply Chain Analytics Dashboard | Power BI
 
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![SQL](https://img.shields.io/badge/Language-SQL-blue)
+![DAX](https://img.shields.io/badge/Skill-DAX-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 🚀 End-to-End Business Intelligence Project  
 From Data Modeling → DAX → Dashboard → Business Insights  
 
@@ -15,7 +20,17 @@ This project presents an interactive **Supply Chain Analytics Dashboard** built 
 - Supplier Analysis  
 - Customer & Sales Channels  
 
-👉 The goal is to enable **data-driven decision-making** and optimize supply chain operations.
+👉 Goal: Enable **data-driven decision-making** and optimize supply chain operations.
+
+---
+
+## ⭐ Key Highlights
+
+- Built a **complete star schema data model**  
+- Created **advanced DAX KPIs** for business insights  
+- Identified **shipment delays & inventory inefficiencies**  
+- Designed a **professional multi-page dashboard UI**  
+- Delivered **actionable recommendations for optimization**  
 
 ---
 
@@ -29,14 +44,14 @@ Supply chain operations face challenges such as:
 - Uneven revenue distribution  
 
 👉 **Key Question:**  
-How can supply chain operations be optimized to improve efficiency and profitability?
+How to optimize operations to improve efficiency & profitability?
 
 ---
 
-## 🛠 Tools & Technologies
+## 🛠 Tech Stack
 
 - Power BI  
-- DAX (Data Analysis Expressions)  
+- DAX  
 - SQL  
 - Excel / CSV  
 - Data Modeling (Star Schema)  
@@ -64,135 +79,111 @@ How can supply chain operations be optimized to improve efficiency and profitabi
 ## 🔄 Data Pipeline
 
 1. Data Collection  
-2. Data Cleaning & Preprocessing  
-3. Data Modeling (Star Schema)  
-4. Data Loading into Power BI  
-5. Relationship Building  
-6. DAX KPI Creation  
-7. Dashboard Development  
+2. Data Cleaning  
+3. Data Modeling  
+4. Power BI Integration  
+5. DAX Calculations  
+6. Dashboard Development  
 
 ---
 
 ## 📊 Dashboard Features
 
 ### 📌 KPI Overview
-- Total Revenue: **176.95M**  
-- Total Profit: **48.56M**  
-- Total Shipments: **7500**  
-- Delivery Rate: **75%**  
-- Total Delays: **573**
+- 💰 Revenue: **176.95M**  
+- 📈 Profit: **48.56M**  
+- 📦 Shipments: **7500**  
+- 🚚 Delivery Rate: **75%**  
+- ⚠ Delays: **573**
 
 ---
 
-### 🏭 Supplier Performance
-- Lead time analysis  
-- Supplier comparison  
-- Procurement insights  
+### 🏭 Supplier Analysis
+- Lead time evaluation  
+- Supplier performance comparison  
 
----
-
-### 📦 Inventory Analysis
-- Stock monitoring  
-- Overstock vs understock detection  
-- Inventory turnover tracking  
-
----
+### 📦 Inventory Insights
+- Stock tracking  
+- Overstock detection  
 
 ### 🚚 Shipment Analysis
-- Carrier performance  
 - Delay analysis  
-- Shipment cost trends  
+- Carrier performance  
 
----
-
-### 📈 Revenue & Sales Insights
-- Monthly trends  
+### 📈 Sales Insights
+- Revenue trends  
 - Profit margin analysis  
-- Channel performance  
-
----
-
-### 🛒 Customer Analysis
-- Top customers  
-- Discount impact  
-- Revenue distribution  
 
 ---
 
 ## 📸 Dashboard Preview
 
-### 🏠 Home Page
-![Home](./assets/home.png)
 
-### 📊 Overview Page
-![Overview](./assets/overview.png)
 
-### 🏭 Supplier Page
-![Supplier](./assets/supplier.png)
-
-### 📦 Inventory Page
-![Inventory](./assets/inventory.png)
-
-### 🚚 Shipment Page
-![Shipment](./assets/shipment.png)
-
-### 🛒 Customer Page
-![Customer](./assets/customer.png)
+![Home](home.png)
+![Overview](overview.png)
+![Supplier](supplier.png)
+![Inventory](inventory.png)
+![Shipment](shipments.png)
+![Customer](customers.png)
 
 ---
 
 ## 📈 Key Insights
 
-- Q4 shows highest revenue growth  
-- Inventory imbalance across products  
-- Shipment delays impact delivery performance  
-- Certain suppliers have higher lead times  
-- Revenue concentrated in top channels  
-- High revenue does not always mean high profit  
+- Q4 shows peak revenue (seasonal demand)  
+- Inventory imbalance detected  
+- Shipment delays impact service levels  
+- High revenue ≠ high profit (discount impact)  
 
 ---
 
-## 💡 Business Recommendations
+## 💡 Recommendations
 
 - Optimize inventory distribution  
-- Improve logistics and carrier performance  
-- Focus on high-margin products  
-- Reduce supplier dependency risks  
-- Implement demand forecasting  
+- Improve logistics efficiency  
+- Focus on high-margin channels  
+- Reduce supplier dependency  
+
+---
+
+## ▶️ How to Use
+
+1. Download `.pbix` file  
+2. Open in Power BI Desktop  
+3. Explore dashboard pages  
+4. Use filters & slicers  
 
 ---
 
 ## 🎯 Project Impact
 
-- Built an end-to-end BI solution  
-- Identified supply chain inefficiencies  
-- Enabled data-driven decision-making  
-- Improved visibility into operations  
+✔ End-to-end BI solution  
+✔ Improved operational visibility  
+✔ Data-driven insights for decision making  
 
 ---
 
-## 🔮 Future Enhancements
+## 🔮 Future Improvements
 
-- Demand Forecasting (Machine Learning)  
-- Supplier Scoring Model  
-- Cloud Integration (AWS / Azure)  
-- Real-time alert system  
+- Demand forecasting (ML)  
+- Supplier scoring system  
+- Cloud integration  
 
 ---
 
 ## 👨‍💻 Author
 
 **Chandan Kumar Sah**  
-Data Analyst | SQL • Power BI • Python • Machine Learning  
-
+Data Analyst | SQL • Power BI • Python  
 
 ---
 
 ## ⭐ Support
 
-If you found this project useful:
+If you like this project:
 
-- Give it a ⭐ on GitHub  
-- Connect for collaboration  
+⭐ Star this repo  
+🤝 Connect for collaboration  
 
 ---
